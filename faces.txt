@@ -1,0 +1,510 @@
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	45
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+55 correct out of 100 (55.0%).
+Testing... k=1
+61 correct out of 100 (61.0%).
+
+Validating... k=3
+64 correct out of 100 (64.0%).
+Testing...k=3
+63 correct out of 100 (63.0%).
+
+Validating... k=5
+61 correct out of 100 (61.0%).
+Testing...k=5
+58 correct out of 100 (58.0%).
+
+Validating... k=7
+63 correct out of 100 (63.0%).
+Testing...k=7
+60 correct out of 100 (60.0%).
+
+Validating... k=9
+69 correct out of 100 (69.0%).
+Testing...k=9
+65 correct out of 100 (65.0%).
+
+Validating... k=11
+70 correct out of 100 (70.0%).
+Testing...k=11
+64 correct out of 100 (64.0%).
+
+Validating... k=13
+63 correct out of 100 (63.0%).
+Testing...k=13
+62 correct out of 100 (62.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	90
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+56 correct out of 100 (56.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+57 correct out of 100 (57.0%).
+Testing...k=3
+55 correct out of 100 (55.0%).
+
+Validating... k=5
+61 correct out of 100 (61.0%).
+Testing...k=5
+64 correct out of 100 (64.0%).
+
+Validating... k=7
+66 correct out of 100 (66.0%).
+Testing...k=7
+62 correct out of 100 (62.0%).
+
+Validating... k=9
+73 correct out of 100 (73.0%).
+Testing...k=9
+67 correct out of 100 (67.0%).
+
+Validating... k=11
+75 correct out of 100 (75.0%).
+Testing...k=11
+72 correct out of 100 (72.0%).
+
+Validating... k=13
+70 correct out of 100 (70.0%).
+Testing...k=13
+81 correct out of 100 (81.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	135
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+56 correct out of 100 (56.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+56 correct out of 100 (56.0%).
+Testing...k=3
+53 correct out of 100 (53.0%).
+
+Validating... k=5
+56 correct out of 100 (56.0%).
+Testing...k=5
+53 correct out of 100 (53.0%).
+
+Validating... k=7
+56 correct out of 100 (56.0%).
+Testing...k=7
+53 correct out of 100 (53.0%).
+
+Validating... k=9
+57 correct out of 100 (57.0%).
+Testing...k=9
+53 correct out of 100 (53.0%).
+
+Validating... k=11
+56 correct out of 100 (56.0%).
+Testing...k=11
+53 correct out of 100 (53.0%).
+
+Validating... k=13
+57 correct out of 100 (57.0%).
+Testing...k=13
+53 correct out of 100 (53.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	180
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+56 correct out of 100 (56.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+56 correct out of 100 (56.0%).
+Testing...k=3
+53 correct out of 100 (53.0%).
+
+Validating... k=5
+56 correct out of 100 (56.0%).
+Testing...k=5
+53 correct out of 100 (53.0%).
+
+Validating... k=7
+56 correct out of 100 (56.0%).
+Testing...k=7
+54 correct out of 100 (54.0%).
+
+Validating... k=9
+57 correct out of 100 (57.0%).
+Testing...k=9
+53 correct out of 100 (53.0%).
+
+Validating... k=11
+58 correct out of 100 (58.0%).
+Testing...k=11
+53 correct out of 100 (53.0%).
+
+Validating... k=13
+59 correct out of 100 (59.0%).
+Testing...k=13
+53 correct out of 100 (53.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	225
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+56 correct out of 100 (56.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+57 correct out of 100 (57.0%).
+Testing...k=3
+54 correct out of 100 (54.0%).
+
+Validating... k=5
+56 correct out of 100 (56.0%).
+Testing...k=5
+55 correct out of 100 (55.0%).
+
+Validating... k=7
+58 correct out of 100 (58.0%).
+Testing...k=7
+55 correct out of 100 (55.0%).
+
+Validating... k=9
+62 correct out of 100 (62.0%).
+Testing...k=9
+58 correct out of 100 (58.0%).
+
+Validating... k=11
+61 correct out of 100 (61.0%).
+Testing...k=11
+53 correct out of 100 (53.0%).
+
+Validating... k=13
+62 correct out of 100 (62.0%).
+Testing...k=13
+57 correct out of 100 (57.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	270
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+57 correct out of 100 (57.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+57 correct out of 100 (57.0%).
+Testing...k=3
+54 correct out of 100 (54.0%).
+
+Validating... k=5
+59 correct out of 100 (59.0%).
+Testing...k=5
+56 correct out of 100 (56.0%).
+
+Validating... k=7
+56 correct out of 100 (56.0%).
+Testing...k=7
+54 correct out of 100 (54.0%).
+
+Validating... k=9
+58 correct out of 100 (58.0%).
+Testing...k=9
+56 correct out of 100 (56.0%).
+
+Validating... k=11
+64 correct out of 100 (64.0%).
+Testing...k=11
+59 correct out of 100 (59.0%).
+
+Validating... k=13
+68 correct out of 100 (68.0%).
+Testing...k=13
+57 correct out of 100 (57.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	315
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+57 correct out of 100 (57.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+57 correct out of 100 (57.0%).
+Testing...k=3
+54 correct out of 100 (54.0%).
+
+Validating... k=5
+59 correct out of 100 (59.0%).
+Testing...k=5
+56 correct out of 100 (56.0%).
+
+Validating... k=7
+56 correct out of 100 (56.0%).
+Testing...k=7
+55 correct out of 100 (55.0%).
+
+Validating... k=9
+58 correct out of 100 (58.0%).
+Testing...k=9
+57 correct out of 100 (57.0%).
+
+Validating... k=11
+64 correct out of 100 (64.0%).
+Testing...k=11
+62 correct out of 100 (62.0%).
+
+Validating... k=13
+66 correct out of 100 (66.0%).
+Testing...k=13
+60 correct out of 100 (60.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	360
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+57 correct out of 100 (57.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+57 correct out of 100 (57.0%).
+Testing...k=3
+55 correct out of 100 (55.0%).
+
+Validating... k=5
+58 correct out of 100 (58.0%).
+Testing...k=5
+55 correct out of 100 (55.0%).
+
+Validating... k=7
+56 correct out of 100 (56.0%).
+Testing...k=7
+57 correct out of 100 (57.0%).
+
+Validating... k=9
+56 correct out of 100 (56.0%).
+Testing...k=9
+56 correct out of 100 (56.0%).
+
+Validating... k=11
+57 correct out of 100 (57.0%).
+Testing...k=11
+59 correct out of 100 (59.0%).
+
+Validating... k=13
+61 correct out of 100 (61.0%).
+Testing...k=13
+59 correct out of 100 (59.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	405
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+57 correct out of 100 (57.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+57 correct out of 100 (57.0%).
+Testing...k=3
+55 correct out of 100 (55.0%).
+
+Validating... k=5
+58 correct out of 100 (58.0%).
+Testing...k=5
+56 correct out of 100 (56.0%).
+
+Validating... k=7
+57 correct out of 100 (57.0%).
+Testing...k=7
+59 correct out of 100 (59.0%).
+
+Validating... k=9
+58 correct out of 100 (58.0%).
+Testing...k=9
+59 correct out of 100 (59.0%).
+
+Validating... k=11
+57 correct out of 100 (57.0%).
+Testing...k=11
+59 correct out of 100 (59.0%).
+
+Validating... k=13
+61 correct out of 100 (61.0%).
+Testing...k=13
+62 correct out of 100 (62.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		knn
+using enhanced features?:	False
+training set size:	450
+init
+init
+init
+init
+init
+init
+init
+Extracting features...
+Training...
+Validating... k=1
+58 correct out of 100 (58.0%).
+Testing... k=1
+53 correct out of 100 (53.0%).
+
+Validating... k=3
+59 correct out of 100 (59.0%).
+Testing...k=3
+55 correct out of 100 (55.0%).
+
+Validating... k=5
+59 correct out of 100 (59.0%).
+Testing...k=5
+57 correct out of 100 (57.0%).
+
+Validating... k=7
+58 correct out of 100 (58.0%).
+Testing...k=7
+60 correct out of 100 (60.0%).
+
+Validating... k=9
+58 correct out of 100 (58.0%).
+Testing...k=9
+59 correct out of 100 (59.0%).
+
+Validating... k=11
+59 correct out of 100 (59.0%).
+Testing...k=11
+57 correct out of 100 (57.0%).
+
+Validating... k=13
+57 correct out of 100 (57.0%).
+Testing...k=13
+55 correct out of 100 (55.0%).
+
+---Training @ 0.1---
+---Training @ 0.2---
+---Training @ 0.3---
+---Training @ 0.4---
+---Training @ 0.5---
+---Training @ 0.6---
+---Training @ 0.7---
+---Training @ 0.8---
+---Training @ 0.9---
+---Training @ 1.0---

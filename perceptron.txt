@@ -1,0 +1,350 @@
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	500
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 7, 0, 0, 0, 7, -1, 5, -8, 2])
+76 correct out of 100 (76.0%).
+67 correct out of 100 (67.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	45
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [0, 2, 1, 1, 1, 1, 1, 1, 1, 1])
+66 correct out of 100 (66.0%).
+62 correct out of 100 (62.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1000
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-3, 8, 2, -3, 1, 10, 3, 10, -17, -1])
+77 correct out of 100 (77.0%).
+77 correct out of 100 (77.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	90
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 4, 1, 1, 1, 1, 1, 1, 1, 1])
+71 correct out of 100 (71.0%).
+76 correct out of 100 (76.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	1500
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-5, 9, 3, -5, 6, 15, -1, 14, -20, -6])
+82 correct out of 100 (82.0%).
+74 correct out of 100 (74.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	135
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 4, 1, 1, 1, 1, 1, 1, 1, 1])
+72 correct out of 100 (72.0%).
+72 correct out of 100 (72.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2000
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-5, 12, 0, -8, 6, 20, 2, 16, -26, -7])
+81 correct out of 100 (81.0%).
+76 correct out of 100 (76.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	180
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 4, 1, 1, 1, 1, 1, 1, 1, 1])
+83 correct out of 100 (83.0%).
+81 correct out of 100 (81.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	2500
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-6, 13, 5, -12, 4, 23, 4, 18, -31, -8])
+86 correct out of 100 (86.0%).
+85 correct out of 100 (85.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	225
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 4, 1, 1, 1, 1, 1, 1, 1, 1])
+89 correct out of 100 (89.0%).
+87 correct out of 100 (87.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3000
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-5, 13, 7, -14, 5, 28, 2, 15, -34, -7])
+85 correct out of 100 (85.0%).
+87 correct out of 100 (87.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	270
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 4, 1, 1, 1, 1, 1, 1, 1, 1])
+86 correct out of 100 (86.0%).
+85 correct out of 100 (85.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	3500
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-6, 14, 5, -11, 5, 30, 6, 17, -40, -10])
+86 correct out of 100 (86.0%).
+81 correct out of 100 (81.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	315
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-3, 5, 1, 1, 1, 1, 1, 1, 1, 1])
+86 correct out of 100 (86.0%).
+84 correct out of 100 (84.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4000
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-6, 15, 6, -9, 2, 32, 2, 20, -44, -8])
+87 correct out of 100 (87.0%).
+82 correct out of 100 (82.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	360
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 4, 1, 1, 1, 1, 1, 1, 1, 1])
+89 correct out of 100 (89.0%).
+84 correct out of 100 (84.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	4500
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-7, 15, 9, -13, 2, 39, -1, 21, -45, -10])
+88 correct out of 100 (88.0%).
+84 correct out of 100 (84.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	405
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-3, 5, 1, 1, 1, 1, 1, 1, 1, 1])
+82 correct out of 100 (82.0%).
+84 correct out of 100 (84.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	5000
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-6, 16, 10, -13, 6, 36, 0, 26, -53, -12])
+87 correct out of 100 (87.0%).
+83 correct out of 100 (83.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		perceptron
+using enhanced features?:	False
+training set size:	450
+Extracting features...
+Training...
+('init bias', [1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
+('init weigh', {0: {}, 1: {}})
+('Starting iteration ', 0, '...')
+('Starting iteration ', 1, '...')
+('Starting iteration ', 2, '...')
+('bias', [-2, 4, 1, 1, 1, 1, 1, 1, 1, 1])
+89 correct out of 100 (89.0%).
+86 correct out of 100 (86.0%).
+
+---Training @ 0.1---
+---Training @ 0.2---
+---Training @ 0.3---
+---Training @ 0.4---
+---Training @ 0.5---
+---Training @ 0.6---
+---Training @ 0.7---
+---Training @ 0.8---
+---Training @ 0.9---
+---Training @ 1.0---
